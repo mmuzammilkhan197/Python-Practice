@@ -1,0 +1,1 @@
+print("Welcome to Programming Fundamentals Lab 01!")
